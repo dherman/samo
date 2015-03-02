@@ -7,6 +7,8 @@ Search and analyze Firefox's [amo](http://addons.mozilla.org) ecosystem.
 So far the only functionality implemented is searching for a literal string
 across all JavaScript source in the ecosystem.
 
+![crown](crown.jpg)
+
 # Getting started
 
 Install a `samo` binary on your system:
