@@ -1,18 +1,18 @@
 {
-  "name": "amo",
+  "name": "samo",
   "version": "0.0.0",
   "description": "Search and analyze the addons.mozilla.org ecosystem",
   "main": "lib/index.js",
   "preferGlobal": "true",
   "bin": {
-    "amo": "lib/cli.js"
+    "samo": "lib/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/dherman/amo.git"
+    "url": "http://github.com/dherman/samo.git"
   },
   "author": "Dave Herman <dherman@mozilla.com>",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "fs-promise": "~0.3.1"
   },
   "bugs": {
-    "url": "https://github.com/dherman/amo/issues"
+    "url": "https://github.com/dherman/samo/issues"
   },
-  "homepage": "https://github.com/dherman/amo"
+  "homepage": "https://github.com/dherman/samo"
 }
