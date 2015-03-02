@@ -2,7 +2,7 @@
 
 Search and analyze Firefox's [amo](http://addons.mozilla.org) ecosystem.
 
-[![NPM](https://nodei.co/npm/runzip.png)](https://nodei.co/npm/runzip/)
+[![NPM](https://nodei.co/npm/amo.png)](https://nodei.co/npm/amo/)
 
 So far the only functionality implemented is searching for a literal string
 across all JavaScript source in the ecosystem.
