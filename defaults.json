@@ -1,0 +1,5 @@
+{
+  "cache": "./cache",
+  "limit": 200,
+  "index": "https://people.mozilla.org/~kmaglione/latest_addons.tsv"
+}
